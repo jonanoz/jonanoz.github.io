@@ -1,0 +1,7 @@
+Character,Speed,HP,Defence,Attack,Critical,
+Knight,1,100,20,40,0.15,1
+Monk,3,80,10,30,0.15,1
+Wizard,1,25,5,75,0,1
+Rogue,4,50,5,30,0.75,1
+Fighter,2,80,10,50,0.25,1
+Ranger,3,50,15,30,0.5,1
