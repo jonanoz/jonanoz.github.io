@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+##Welcome to the Tic Tac Tactical Game!
 
 You can use the [editor on GitHub](https://github.com/jonanoz/jonanoz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I wanted to strengthen my knowledge using C#/.NET framework by creating a simple textbased RPG/TicTacToe inspired game. 
+The game is called Tic Tac Tactical where you are asked to select three characters from a list to defeat your enemy (the computer). 
+The character list can be found in the main menu by selecting option 2, or by opening and reviwing the CharactersCSV.csv file on the main page above. 
+Your team will fight against the enemy team automatically in the background and return if you won or not. 
 
-### Markdown
+### Before you begin!!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
