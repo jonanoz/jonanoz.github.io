@@ -1,6 +1,7 @@
 ## Welcome to the Tic Tac Tactical Game!
 
 Hello Everyone,
+
 My name is Jon and I wanted to strengthen my knowledge using C#/.NET framework by creating a simple textbased RPG/TicTacToe inspired game. 
 The game is called Tic Tac Tactical where you are asked to select three characters from a list to defeat your enemy (the computer). 
 The character list can be found in the main menu by selecting option 2, or by opening and reviwing the CharactersCSV.csv file on the main page above. 
