@@ -11,9 +11,14 @@ Your team will fight against the enemy team automatically in the background and 
 ```markdown
 Prior to running the game two things must be managed by the user:
 
-1: You must download the csv file "CharactersCSV.csv" to a reachable file location on your local machine.
+1: 
+You must download the csv file "CharactersCSV.csv" to a reachable 
+file location on your local machine.
 
-2: You must add the UNC path of the "CharactersCSV.csv" file location into variable "csvpath" in the below files:
+2: 
+You must add the UNC path of the "CharactersCSV.csv" file location 
+into variable "csvpath" in the below files:
+
     -Play.cs
     -Characters.cs
     
