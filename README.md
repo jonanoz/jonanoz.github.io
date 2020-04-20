@@ -3,7 +3,7 @@
 ## Assessment:
 Hello Everyone!
 
-My name is Jon and I wanted to step out of my shell and learn something completely new. With C#/.NET framework being vital to millions of orgnizations, I ventured to strengthen my knowledge using C#/.NET framework by creating a simple text based RPG/TicTacToe inspired game. 
+MMy name is Jon and I wanted to step out of my shell and learn something completely new. With C#/.NET framework being vital to millions of organizations, I ventured to strengthen my knowledge using C#/.NET framework by creating a simple text based RPG/TicTacToe inspired game. 
 The game is called Tic Tac Tactical where you are asked to select three characters from a list to defeat your enemy (the computer). 
 The character list can be found in the main menu by selecting option 2, or by opening and reviewing the CharactersCSV.csv file on the main page above. 
 Your team will fight against the enemy team automatically in the background and return if you won or not. The game itself has more than 720 possible outcomes. I will be updating the game periodically to implement more advanced functions to alleviate any performance issues.
