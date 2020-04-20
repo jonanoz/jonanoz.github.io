@@ -14,7 +14,7 @@ Please read below for more insight on the respective artifacts and what they ent
 
 
 
-<-- To easily navigate click on the shortcuts within the navigation pane.
+<-- To easily navigate click on the shortcuts within the navigation pane. Or access the repo here: https://github.com/jonanoz/jonanoz.github.io
 
 ### Before you begin!!
 ```markdown
